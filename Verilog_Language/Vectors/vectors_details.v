@@ -8,3 +8,9 @@ module top_module (
 	assign out_lo = in[7:0];
 		
 endmodule
+
+// Unpacked vs. Packed Arrays
+//        packed    name    unpacked
+//  reg    [7:0]     mem     [255:0];
+
+// 256 memory locations (words), Each word is 8 bits wide
