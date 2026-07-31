@@ -23,8 +23,3 @@ Solutions are simulated using [EDA Playground](https://edaplayground.com) (free,
 
 Solving digital design problems in Verilog mirrors real RTL design workflows used at chip companies. This repo is both a learning log and a portfolio piece showing hands-on hardware description language experience.
 
-
-| Section | Status |
-|---------|--------|
-| Basics | Done |
-| FSMs | In progress |
