@@ -1,4 +1,4 @@
-# hdlbits-solutions
+# HDLBits-Solutions
 
 Verilog/SystemVerilog solutions to the HDLBits problem set, worked through as part of my prep for hardware engineering internships (targeting RTL/digital design roles).
 
