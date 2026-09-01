@@ -1,4 +1,5 @@
-module Part1 (
+// exercise 1
+module top_module (
 	input clk,
 	input L,
 	input r_in,
@@ -11,7 +12,8 @@ module Part1 (
 
 endmodule
 
-module Part2 (input clk,
+// exercise 2
+module top_module (input clk,
     input w, R, E, L,
     output Q
 );
